@@ -66,3 +66,20 @@ a {
 	width: 100%;
 	border-radius: 1rem;
 }
+
+.call-me {
+	padding: 12px 32px;
+	background-color: #fff;
+	color: #ff7b51;
+	margin-top: 16px;
+	border-radius: 32px;
+	border: 1px solid #ff7b51;
+	transition: 0.3s;
+}
+
+.call-me: hover{
+	box-shadow: 0px 10px 20px #ddd;
+	background-color: #ff7b51;
+	color: white;
+	transition: 0.3s;
+}
